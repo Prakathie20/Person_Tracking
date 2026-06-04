@@ -1,0 +1,10 @@
+com\example\demo\DemoApplication.class
+com\example\demo\model\Doctor.class
+com\example\demo\controller\PatientController.class
+com\example\demo\model\Appointment.class
+com\example\demo\controller\AppointmentController.class
+com\example\demo\model\Patient.class
+com\example\demo\repository\AppointmentRepository.class
+com\example\demo\controller\DoctorController.class
+com\example\demo\repository\PatientRepository.class
+com\example\demo\repository\DoctorRepository.class
