@@ -47,6 +47,7 @@ setuptools>=70.0.0 # Snyk vulnerability fix
 # mss  # screenshots
 # albumentations>=1.0.3
 # pycocotools>=2.0.6  # COCO mAP
+
 streamlit
 ultralytics
 opencv-python-headless
@@ -54,3 +55,6 @@ numpy
 torch
 torchvision
 pandas
+lap
+scipy
+cython
